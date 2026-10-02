@@ -1,0 +1,8 @@
+{
+  "name": "BBC FOOD HUB",
+  "description": "Smart Restaurant POS & Billing System",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,14 @@
+==================================================
+BBC POS v8.9 (Build 89) - Ready to Install APK
+==================================================
+
+File Name: BBC_POS_v8.9.apk
+Size: ~34 MB
+Build: v8.9 (Clean Professional English Version)
+
+INSTALLATION INSTRUCTIONS:
+1. Copy 'BBC_POS_v8.9.apk' to your Android Phone or Tablet.
+2. Tap on the APK file in your phone's File Manager or Downloads.
+3. If prompted to 'Install from Unknown Sources', allow it in Settings.
+4. Tap 'Install' and launch the app.
+==================================================

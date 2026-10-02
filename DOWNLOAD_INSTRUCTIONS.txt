@@ -1,0 +1,25 @@
+======================================================
+BBC POS v8.9 (Build 89) - DIRECT APK DOWNLOAD
+======================================================
+
+The complete, production-ready APK (35 MB) has been generated and is available in multiple ways:
+
+1. INSTANT BROWSER DOWNLOAD LINK (RECOMMENDED):
+Open this link in any browser (Phone/PC) to download immediately:
+https://ais-dev-ck4b7t6mx62asbysbv5aas-917087314118.asia-southeast1.run.app/BBC_POS_v8.9.apk
+
+2. WEB DASHBOARD DOWNLOAD:
+Visit: https://ais-dev-ck4b7t6mx62asbysbv5aas-917087314118.asia-southeast1.run.app/
+Click the orange "Download BBC_POS_v8.9.apk" button.
+
+3. DIRECT PROJECT FILES:
+- /export/BBC_POS_v8.9.apk
+- /export/BBC_POS_latest.apk
+- /BBC_POS_v8.9.apk
+
+4. IN-APP EXPORT:
+Inside the app on screen, go to Settings -> Export & Backup -> Tap "Download APK to Device Downloads" or "Share APK".
+
+======================================================
+100% Professional English Interface with No Marathi Text.
+======================================================
